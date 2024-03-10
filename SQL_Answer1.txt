@@ -1,0 +1,1 @@
+Given query will return 0 columns
